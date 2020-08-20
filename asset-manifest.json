@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/matrioshtsdat/static/css/main.5f361e03.chunk.css",
+    "main.js": "/matrioshtsdat/static/js/main.9837404b.chunk.js",
+    "main.js.map": "/matrioshtsdat/static/js/main.9837404b.chunk.js.map",
+    "runtime-main.js": "/matrioshtsdat/static/js/runtime-main.4cc15dbf.js",
+    "runtime-main.js.map": "/matrioshtsdat/static/js/runtime-main.4cc15dbf.js.map",
+    "static/js/2.84b8bddf.chunk.js": "/matrioshtsdat/static/js/2.84b8bddf.chunk.js",
+    "static/js/2.84b8bddf.chunk.js.map": "/matrioshtsdat/static/js/2.84b8bddf.chunk.js.map",
+    "index.html": "/matrioshtsdat/index.html",
+    "precache-manifest.d3eb595eb46a00a74fd17b6a6e974b87.js": "/matrioshtsdat/precache-manifest.d3eb595eb46a00a74fd17b6a6e974b87.js",
+    "service-worker.js": "/matrioshtsdat/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/matrioshtsdat/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.84b8bddf.chunk.js.LICENSE.txt": "/matrioshtsdat/static/js/2.84b8bddf.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/matrioshtsdat/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4cc15dbf.js",
+    "static/js/2.84b8bddf.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.9837404b.chunk.js"
+  ]
+}
