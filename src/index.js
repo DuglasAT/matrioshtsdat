@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
+import retornaTexto from './ret';
 //import App from './App';
 //import * as serviceWorker from './serviceWorker';
 
@@ -34,10 +35,6 @@ class NameForm extends React.Component {
     );
   }
 }
-
-function retornaTexto (texto){
-  return texto + "\nahora está en area de texto de salida.";
-};
 
 class EssayForm extends React.Component {
   constructor(props) {
